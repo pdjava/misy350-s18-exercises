@@ -1,0 +1,11 @@
+li {
+  color:green;
+}
+
+table, td{
+  border: 4px solid Black;
+}
+
+th{
+  color: blue;
+}
