@@ -1,0 +1,87 @@
+body{
+  background-color: #FBF9ED;
+  font-family: Georgia;
+}
+
+h1{
+  color: #F49C6A;
+  font-size: 120px;
+  text-align: center;
+  margin: 12px;
+  border: 5px solid orange;
+}
+
+.navigation ul{
+  text-align: center;
+}
+
+.navigation li{
+  font-weight: 100;
+  letter-spacing: 2px;
+  display: inline-block;
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 20px;
+  position: relative;
+  padding-left: 60px;
+  padding-right: 50px;
+}
+
+h2{
+font-family: Courier New;
+text-transform: capitalize;
+}
+
+h3{
+  font-family: Helvetica;
+  font-weight: 200;
+}
+
+nav ul a:link{
+  color: #F4C7A8;
+  text-decoration: none;
+}
+div a{
+  color:#B57493;
+  font-size: 1.5em;
+}
+
+.navbar{
+  color:#B57493;
+  font-size: 1.5em;
+}
+
+.share{
+  border: 1px solid LightGrey;
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  margin: 12px;
+}
+
+.share a{
+  background: #F49C6A;
+  border: 1px solid #F49C6A;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  margin: 12px;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.share a:hover {
+  background: white;
+  border: 1px solid #F49C6A;
+  color: #F49C6A;
+}
+
+ #habitat{
+  background-image: url("https://s3.amazonaws.com/misy350/bg-tree.jpg");
+  color: white;
+  background-size: cover;
+ }
+
+ #media img{
+   border-radius: 100px;
+ }
